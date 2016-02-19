@@ -19,8 +19,8 @@ pdflatex template.tex
 ```
 
 The figures are used under a [CC BY-NC-SA 3.0 
-Licence](http://creativecommons.org/licenses/by-sa/3.0/). The PID loop is by 
-[TravTigerEE at 
-Wikimedia](https://commons.wikimedia.org/wiki/File:PID_en_updated_feedback.svg) 
+Licence](http://creativecommons.org/licenses/by-sa/3.0/).
+The PID loop is by [TravTigerEE at Wikimedia]
+(https://commons.wikimedia.org/wiki/File:PID_en_updated_feedback.svg) 
 The HDD is by [Alchemist-hp also at Wikimedia] 
 (https://commons.wikimedia.org/wiki/File:Hard_disk_head_crash.jpg)
